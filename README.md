@@ -14,3 +14,6 @@ Obstacle Detection &amp; Avoidance With Az-delivery Arduino Uno, L298N H-bridge,
 8. Next, we Write the code for the software: Programming the Az-delivery Arduino is done with the Arduino IDE, where the software code is written. The code is used to set up the parameters for the sensors, read the data from the sensors, control the speed and direction of the motors, and run the algorithms for avoiding obstacles.
 9. then we Upload software code: The Arduino IDE and a USB cable are used to send the software code to an Az-delivery Arduino.
 10. finally, Test the self-driving car: The self-driving car is tested in different environments to make sure it can find and avoid obstacles.
+
+**Architecture of Self-Driven Car**
+![Picture1](https://github.com/user-attachments/assets/6d759f67-a0e6-43b6-9ba8-a7ef4cb729ac)
